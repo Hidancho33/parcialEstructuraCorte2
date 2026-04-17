@@ -9,7 +9,7 @@ class Pila {
         console.log("Objeto agregado a la pila:", objeto);
     }
 
-    // )
+    // 
     pop() {
         if (this.items.length === 0) {
             return "La pila está vacía";
