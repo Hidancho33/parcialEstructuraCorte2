@@ -2,4 +2,4 @@
 
 imagen
 
-![Estructura de datos](../imagen/stack.webp)
+![Estructura de datos](/stack.png)
